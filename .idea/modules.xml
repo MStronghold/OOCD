@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOCD.iml" filepath="$PROJECT_DIR$/OOCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht1/week1.les1.opdracht1.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht1/week1.les1.opdracht1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht2/week1.les1.opdracht2.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht2/week1.les1.opdracht2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht3/week1.les1.opdracht3.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht3/week1.les1.opdracht3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht4/week1.les1.opdracht4.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht4/week1.les1.opdracht4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht5/week1.les1.opdracht5.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht5/week1.les1.opdracht5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les2.opdracht1/week1.les2.opdracht1.iml" filepath="$PROJECT_DIR$/week1.les2.opdracht1/week1.les2.opdracht1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les2.practicum1/week1.les2.practicum1.iml" filepath="$PROJECT_DIR$/week1.les2.practicum1/week1.les2.practicum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1.les2.practicum2/week1.les2.practicum2.iml" filepath="$PROJECT_DIR$/week1.les2.practicum2/week1.les2.practicum2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2.les3.opdracht1/week2.les3.opdracht1.iml" filepath="$PROJECT_DIR$/week2.les3.opdracht1/week2.les3.opdracht1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2.les3.opdracht2/week2.les3.opdracht2.iml" filepath="$PROJECT_DIR$/week2.les3.opdracht2/week2.les3.opdracht2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2.les3.practicum1/week2.les3.practicum1.iml" filepath="$PROJECT_DIR$/week2.les3.practicum1/week2.les3.practicum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2.les3.practicum2/week2.les3.practicum2.iml" filepath="$PROJECT_DIR$/week2.les3.practicum2/week2.les3.practicum2.iml" />
+    </modules>
+  </component>
+</project>
