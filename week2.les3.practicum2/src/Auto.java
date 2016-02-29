@@ -16,6 +16,6 @@ public class Auto {
     }
 
     public String toString(){
-        return "";
+        return type + " met prijs per dag: " + prijsPerDag;
     }
 }
