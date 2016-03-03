@@ -1,9 +1,9 @@
-public class Autohuur {
+public class AutoHuur {
     private int aantalDagen;
     private Klant huurder;
     private Auto gehuurdeAuto;
 
-    public Autohuur(){}
+    public AutoHuur(){}
 
     public void setAantalDagen(int aD){
         aantalDagen = aD;
