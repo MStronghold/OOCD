@@ -1,0 +1,15 @@
+1.      23, int
+2.      4.0, double
+3.      7.5, double
+4.      12, int
+5.      13.0, double
+6.      123, string
+7.      13.363, float
+8.      4, int
+9.      8374.62, float
+10.     62, int
+11.     10.5, double
+12.     10.5 double
+13.     15.5, double
+14.     6
+15.     12

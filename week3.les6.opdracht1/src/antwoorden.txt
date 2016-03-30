@@ -1,0 +1,9 @@
+1.      route66, 12route
+
+2. nee
+
+3.   .lengt() ja
+
+4. index()
+
+5. hascode()
