@@ -1,28 +1,41 @@
-/**
- * Created by lucas on 30-3-2016.
- */
+import java.util.ArrayList;
+
 public class FacebookAccount {
-    String naam;
-    private Vriend mijnVrienden;
+    private String naam;
+    private ArrayList<Vriend> mijnVrienden;
 
-    public FacebookAccount(String nm){
-
+    public FacebookAccount(String nm) {
         naam = nm;
+        mijnVrienden = new ArrayList<>();
     }
 
-    public String getNaam(){
-        return naam;
+    public String getNaam() { return naam; }
+
+    public void voegVriendToe(Vriend nwV) {
+        if(!isVriendMet(nwV))
+            mijnVrienden.add(nwV);
     }
 
-    public void voegVriendToe(Vriend nwV){
-        mijnVrienden.Vriend;
+    public boolean verwijderVriend(Vriend exV) {
+        boolean isVriend = isVriendMet(exV);
+        if(isVriend)
+            mijnVrienden.remove(exV);
+        return isVriend;
     }
 
-    public boolean verwijderVriend(Vriend exV){
-        mijnVrienden.equals(exV);
+    public boolean isVriendMet(Vriend v) {
+        for(Vriend vriend : mijnVrienden)
+            if(v.equals(vriend))
+                return true;
+        return false;
     }
 
-    public boolean isVriendMet(Vriend v){
+    public int aantalVrienden() { return mijnVrienden.size(); }
 
+    public String toString() {
+        String s = getNaam() + " heeft " + aantalVrienden() + " vrienden:\n";
+        for(Vriend vriend : mijnVrienden)
+            s = s.concat(vriend.toString());
+        return s;
     }
 }

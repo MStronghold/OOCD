@@ -1,0 +1,15 @@
+a           wel
+b           wel
+c           niet
+d           wel
+e           wel
+f           wel
+g           buiten
+h           binnen
+i           binnen
+j           buiten/binnen
+k           niet
+l           huis
+m           gebouw
+n           niet
+o           wel

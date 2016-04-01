@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOCD.iml" filepath="$PROJECT_DIR$/OOCD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2.les4.opdracht1/Week2.les4.opdracht1.iml" filepath="$PROJECT_DIR$/Week2.les4.opdracht1/Week2.les4.opdracht1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2.les4.practicum3/Week2.les4.practicum3.iml" filepath="$PROJECT_DIR$/Week2.les4.practicum3/Week2.les4.practicum3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3.les5.opdracht1/Week3.les5.opdracht1.iml" filepath="$PROJECT_DIR$/Week3.les5.opdracht1/Week3.les5.opdracht1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht1/week1.les1.opdracht1.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht1/week1.les1.opdracht1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht2/week1.les1.opdracht2.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht2/week1.les1.opdracht2.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1.les1.opdracht3/week1.les1.opdracht3.iml" filepath="$PROJECT_DIR$/week1.les1.opdracht3/week1.les1.opdracht3.iml" />
@@ -20,6 +21,14 @@
       <module fileurl="file://$PROJECT_DIR$/week2.les5.opdracht1/week2.les5.opdracht1.iml" filepath="$PROJECT_DIR$/week2.les5.opdracht1/week2.les5.opdracht1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week3.les6.opdracht1/week3.les6.opdracht1.iml" filepath="$PROJECT_DIR$/week3.les6.opdracht1/week3.les6.opdracht1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week3.les6.opdracht2/week3.les6.opdracht2.iml" filepath="$PROJECT_DIR$/week3.les6.opdracht2/week3.les6.opdracht2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3.les6.practicum2/week3.les6.practicum2.iml" filepath="$PROJECT_DIR$/week3.les6.practicum2/week3.les6.practicum2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3.les6.practicum3/week3.les6.practicum3.iml" filepath="$PROJECT_DIR$/week3.les6.practicum3/week3.les6.practicum3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4.les7.opdracht1/week4.les7.opdracht1.iml" filepath="$PROJECT_DIR$/week4.les7.opdracht1/week4.les7.opdracht1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4.les7.opdracht2/week4.les7.opdracht2.iml" filepath="$PROJECT_DIR$/week4.les7.opdracht2/week4.les7.opdracht2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4.les8.opdracht1/week4.les8.opdracht1.iml" filepath="$PROJECT_DIR$/week4.les8.opdracht1/week4.les8.opdracht1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4.les8.opdracht2/week4.les8.opdracht2.iml" filepath="$PROJECT_DIR$/week4.les8.opdracht2/week4.les8.opdracht2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4.practicum1/week4.practicum1.iml" filepath="$PROJECT_DIR$/week4.practicum1/week4.practicum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4.practicum2/week4.practicum2.iml" filepath="$PROJECT_DIR$/week4.practicum2/week4.practicum2.iml" />
     </modules>
   </component>
 </project>
